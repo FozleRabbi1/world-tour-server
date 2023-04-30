@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "title": "Luxury Hotel",
+        "roomImage": "https://media.istockphoto.com/id/1342056590/photo/clean-and-tidy-bedroom.jpg?s=612x612&w=is&k=20&c=fC1Qxav_rRZCe16pjs5ZirOeEvk2tcwdaP--8L9pAwM=",
+        "locationImage": "https://images.unsplash.com/photo-1535025287458-e3badca98021?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=873&q=80",
+        "location": "New York City",
+        "roomDescription": "Spacious suite with stunning city views and modern amenities, perfect for a luxurious stay.",
+        "price": 350,
+        "rating": 4.5,
+        "roomHeading": "Deluxe Suite",
+        "totalBade" : 2
+    },
+    {
+        "id": 2,
+        "title": "Beach Resort",
+        "roomImage": "https://media.istockphoto.com/id/1370825295/photo/modern-hotel-room-with-double-bed-night-tables-tv-set-and-cityscape-from-the-window.jpg?s=612x612&w=is&k=20&c=XYBxrkCPb8REbaKa9AoSt6_1YAgUwGTb3V2GQ3sqDC8=",
+        "locationImage": "https://images.unsplash.com/photo-1558172336-fa7110e9fb6b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=874&q=80",
+        "location": "Maui, Hawaii",
+        "roomDescription": "Private oceanfront bungalow with panoramic views of the ocean and a secluded pool for the ultimate relaxation.",
+        "price": 600,
+        "rating": 4.8,
+        "roomHeading": "Oceanfront Bungalow",
+        "totalBade" : 3
+    },
+    {
+        "id": 3,
+        "title": "Boutique Hotel",
+        "roomImage": "https://media.istockphoto.com/id/1406990553/photo/fresh-white-bedclothes-and-towels-on-bed.jpg?s=612x612&w=is&k=20&c=qBR7gY_kaYayNcG1hFlvbPxdwHEK32CbuCSbLb7amCY=",
+        "locationImage": "https://images.unsplash.com/photo-1668010883308-ca5baf7e7255?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=873&q=80",
+        "location": "Paris, France",
+        "roomDescription": "Elegant and charming room in the heart of Paris, with beautiful decor and all the necessary amenities for a comfortable stay.",
+        "price": 200,
+        "rating": 4.2,
+        "roomHeading": "Charming Room",
+        "totalBade" : 2
+    },
+    {
+        "id": 4,
+        "title": "Ski Lodge",
+        "roomImage": "https://media.istockphoto.com/id/457980337/photo/bed-and-bathtub-in-modern-master-bedroom.jpg?s=612x612&w=is&k=20&c=GqXqJlWrgRia4iIVlfuTtYPjuSWPbNcSSnqkju_GIeg=",
+        "locationImage": "https://images.unsplash.com/photo-1628816921157-137cbd6946e2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=876&q=80",
+        "location": "Aspen, Colorado",
+        "roomDescription": "Cozy cabin with a fireplace and breathtaking views of the mountains, perfect for a winter getaway.",
+        "price": 450,
+        "rating": 4.6,
+        "roomHeading": "Mountain Cabin",
+        "totalBade" : 4
+    },
+    {
+        "id": 5,
+        "title": "Urban Hotel",
+        "roomImage": "https://media.istockphoto.com/id/457980337/photo/bed-and-bathtub-in-modern-master-bedroom.jpg?s=612x612&w=is&k=20&c=GqXqJlWrgRia4iIVlfuTtYPjuSWPbNcSSnqkju_GIeg=",
+        "locationImage": "https://images.unsplash.com/reserve/O7A9fAvYSXC7NTdz8gLQ_IMGP1039.jpg?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=874&q=80",
+        "location": "Tokyo, Japan",
+        "roomDescription": "Stylish and modern room with a city view and all the latest technology for a comfortable and convenient stay.",
+        "price": 300,
+        "rating": 4.4,
+        "roomHeading": "City View Room",
+        "totalBade" : 2
+    },
+    {
+        "id": 6,
+        "title": "Historic Hotel",
+        "roomImage": "https://media.istockphoto.com/id/1436893547/photo/young-asian-traveler-woman-with-luggage-and-straw-hat-in-hotel-room-after-check-in-travel-and.jpg?s=612x612&w=is&k=20&c=YUWyvtoPdV24x5WWOlOJRYdtY_hJZWRLfVAiSyetdbg=",
+        "locationImage": "https://images.unsplash.com/photo-1502809234117-7653a8b19aa1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+        "location": "Rome, Italy",
+        "roomDescription": "Immerse yourself in the rich history and culture of Rome with this beautifully restored room in a historic building.",
+        "price": 250,
+        "rating": 4.3,
+        "roomHeading": "Historic Room",
+        "totalBade" : 2
+    },
+    {
+        "id": 7,
+        "title": "Family Resort",
+        "roomImage": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+        "locationImage": "https://images.unsplash.com/photo-1557258398-e069ad239d14?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "location": "Orlando, Florida",
+        "roomDescription": "Spacious and comfortable suite with all the amenities for families, including a kitchenette and separate bedrooms.",
+        "price": 350,
+        "rating": 4.7,
+        "roomHeading": "Family Suite",
+        "totalBade" : 2
+    },
+    {
+        "id": 8,
+        "title": "Mountain Lodge",
+        "roomImage": "https://media.istockphoto.com/id/457980503/photo/mirror-and-bed-in-modern-bedroom.jpg?s=612x612&w=is&k=20&c=RzhIp9cMz1hcJc8UDsB8Seap-ZF3BzPAfymp_iQZSec=",
+        "locationImage": "https://images.unsplash.com/photo-1444309251453-6b95825ea872?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+        "location": "Banff, Canada",
+        "roomDescription": "Experience the beauty of the Canadian Rockies with this cozy and rustic lodge room, complete with a fireplace and mountain views.",
+        "price": 400,
+        "rating": 4.5,
+        "roomHeading": "Rustic Lodge Room",
+        "totalBade" : 4
+    },
+    {
+        "id": 9,
+        "title": "Boutique Hotel",
+        "roomImage": "https://media.istockphoto.com/id/114306520/photo/modern-hotel-room-with-a-grey-bed.jpg?s=612x612&w=is&k=20&c=ssOAIb_O_pI3lBCDvt06gS3_ISjvNttrclPI3XO0wJw=",
+        "locationImage": "https://images.unsplash.com/photo-1476522465286-b5b94c729d2a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1158&q=80",
+        "location": "San Francisco, California",
+        "roomDescription": "Chic and stylish room in a trendy neighborhood, with unique decor and all the necessary amenities for a comfortable stay.",
+        "price": 275,
+        "rating": 4.2,
+        "roomHeading": "Stylish Room",
+        "totalBade" : 3
+    },
+    {
+        "id": 10,
+        "title": "Boutique 7start Hotel",
+        "roomImage": "https://media.istockphoto.com/id/485492582/photo/hotel-room-in-dark-wood-pannels.jpg?s=612x612&w=is&k=20&c=k7dz0rVjfMGgqq-HXQ7hprNaYR6mlsVdGPzs1ogzOxA=",
+        "locationImage": "https://images.unsplash.com/photo-1464788061904-b026adb5422b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "location": "San Francisco, California",
+        "roomDescription": "Chic and stylish room in a trendy neighborhood, with unique decor and all the necessary amenities for a comfortable stay.",
+        "price": 705,
+        "rating": 5,
+        "roomHeading": "Stylish Room",
+        "totalBade" : 4
+    }
+]
